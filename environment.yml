@@ -1,0 +1,11 @@
+name: example-basic-structural-assembly
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.6
+  - pip>=19.0
+  - compas>=1.13.2
+  - compas_view2
+  - pip
+    - gmsh
+    - compas_gmsh
