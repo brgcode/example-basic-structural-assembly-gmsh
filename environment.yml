@@ -7,5 +7,4 @@ dependencies:
   - compas>=1.13.2
   - compas_view2
   - pip
-    - gmsh
     - compas_gmsh
