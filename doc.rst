@@ -2,7 +2,7 @@
 Basic Structural Assembly - GMSH
 **********************************
 
-.. figure:: image.png
+.. figure:: example-basic-structural-assembly-gmsh.png
     :figclass: figure
     :class: figure-img img-fluid
 
